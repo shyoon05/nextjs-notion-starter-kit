@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'shyoon05',
   domain: 'nextjs-notion-starter-kit-shyoon05.vercel.app/',
   author: 'shyoon05',
 
